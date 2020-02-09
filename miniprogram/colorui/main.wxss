@@ -4069,5 +4069,5 @@ scroll-view.cu-steps .cu-item {
     background-repeat: no-repeat;
     background-size: contain;
     /* background-image:url(../image/cat.png); */
-    background-image:url('xxxxx');
+    background-image:url('https://www.xincanyin.xyz/upload/2020/2/v2-f38ea531dd67313c52d455e364933bea_1200x500-906872dbcb6146c995021e0068d5465c.jpg');
 }

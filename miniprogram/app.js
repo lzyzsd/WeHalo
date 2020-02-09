@@ -6,7 +6,7 @@ App({
         }
         else {
             wx.cloud.init({
-                env: 'xlr-0053be',
+                env: 'xlr-test-3o6ml',
                 traceUser: true,
             })
         }
@@ -92,8 +92,8 @@ App({
         userInfo: null,
         skin: null,
         roleFlag: false,
-        url: "xx",//http://localhost:8090
-        BlogName: "xx",
+        url: "https://xincanyin.xyz",//http://localhost:8090
+        BlogName: "程序人生-program life",
         token: "xx",
         highlightStyle: "dracula", //代码高亮样式，可用值default,darcula,dracula,tomorrow
         adminOpenid: "xx",
